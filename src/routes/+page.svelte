@@ -5,8 +5,8 @@
       alt="flower blossom">
   </div>
   <div class="mb-8 w-64 md:w-72">
-    <h1>Het genot van ontspannings massage</h1>
-    <p>YoYo Beauty & Massage</p>
+    <h1>Genieten van ontspannings massage</h1>
+    <p>YoYo Beauty & Massage salon</p>
     <p>'s-Gravendijkwal 145B</p>
     <p>3021 EL Rotterdam</p>
     <h2>Openingstijden:</h2>
