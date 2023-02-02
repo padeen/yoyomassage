@@ -9,7 +9,6 @@
 	<div class="mb-8 w-64 md:w-72">
 		<h1>Geniet van ontspannings massage</h1>
 		<p>YoYo Beauty & Massage salon</p>
-		<p>06-87109280</p>
 		<p>'s-Gravendijkwal 145B</p>
 		<p>3021 EL Rotterdam</p>
 		<h2>Openingstijden:</h2>
