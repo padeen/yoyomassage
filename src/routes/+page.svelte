@@ -1,6 +1,11 @@
-<div class="mb-8 w-64 md:w-72">
-	<h1>Geniet van ontspannings massage</h1>
-	<p>YoYo Beauty & Massage Salon</p>
+<div class="mb-8 max-w-3xl">
+	<p>
+		Welkom bij YoYo Beauty & Massage! Wij bieden een uitgebreide selectie van ontspannende en
+		verzorgende massages, evenals verschillende beautybehandelingen om u te helpen zich mooi en
+		ontspannen te voelen. Onze getrainde professionals werken met de beste producten en technieken
+		om u te helpen uw natuurlijke schoonheid te benadrukken. Laat u verwennen, ontspan en voel u
+		herboren bij ons. Wij kijken ernaar uit om u te verwelkomen.
+	</p>
 	<p>06-87109280</p>
 	<p>'s-Gravendijkwal 145B</p>
 	<p>3021 EL Rotterdam</p>

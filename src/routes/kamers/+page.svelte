@@ -1,5 +1,12 @@
 <div class="flex flex-col items-center justify-center space-y-2">
-	<h1>Kom tot rust in een sfeervolle omgeving</h1>
+	<p>
+		We nodigen u uit om tot rust te komen in onze sfeervolle massagekamers. Laat u verwennen door
+		onze professionele en ervaren masseurs en ontdek de verzachtende en ontspannende effecten van
+		onze verschillende massages. Of u nu op zoek bent naar ontspanning na een drukke dag of een
+		specifiek klacht wilt aanpakken, onze massagekamers bieden de perfecte omgeving om te
+		ontspannen, te herstellen en uw energie te herwinnen. We kijken er naar uit om u te verwelkomen
+		en u te begeleiden op uw reis naar ontspanning en verzorging.
+	</p>
 	<div>
 		<img
 			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fkamer1_opt.jpg?alt=media&token=54263043-6df7-48d4-9f66-96ee7beb60db"
