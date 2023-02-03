@@ -1,11 +1,10 @@
-<div class="flex flex-col items-center justify-center space-y-2">
+<div class="flex max-w-3xl flex-col items-center justify-center space-y-2">
 	<p>
 		We nodigen u uit om tot rust te komen in onze sfeervolle massagekamers. Laat u verwennen door
-		onze professionele en ervaren masseurs en ontdek de verzachtende en ontspannende effecten van
+		onze professionele en ervaren masseurs en ontdek de verbeterende en ontspannende effecten van
 		onze verschillende massages. Of u nu op zoek bent naar ontspanning na een drukke dag of een
 		specifiek klacht wilt aanpakken, onze massagekamers bieden de perfecte omgeving om te
-		ontspannen, te herstellen en uw energie te herwinnen. We kijken er naar uit om u te verwelkomen
-		en u te begeleiden op uw reis naar ontspanning en verzorging.
+		ontspannen, te herstellen en uw energie te herwinnen.
 	</p>
 	<div>
 		<img

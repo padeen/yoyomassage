@@ -20,8 +20,7 @@
 		gerichte manipulatie van bepaalde punten op het hoofd, nek en schouders, kunnen stress en angst
 		verminderen en wordt het zenuwstelsel gekalmeerd. Deze aanpak kan ook helpen bij het verbeteren
 		van de slaapkwaliteit, het geheugen en concentratie, en het verminderen van hoofdpijn en
-		migraine. Hoofdmassage is daarom een effectieve manier om het lichamelijk en geestelijk
-		evenwicht te bevorderen en de gezondheid te verbeteren.
+		migraine.
 	</p>
 	<h2>Voetmassage</h2>
 	<p>
