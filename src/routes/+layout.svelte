@@ -24,6 +24,9 @@
 			<a href="/pedicure">Pedicure</a>
 		</div>
 		<div>
+			<a href="/kamers">Kamers</a>
+		</div>
+		<div>
 			<a href="/prijzen">Prijzen</a>
 		</div>
 		<div>
