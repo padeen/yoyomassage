@@ -1,4 +1,5 @@
-<div class="flex max-w-3xl flex-col items-center justify-center space-y-2">
+<div class="mx-5 max-w-3xl">
+	<h1>Kom tot rust</h1>
 	<p>
 		We nodigen u uit om tot rust te komen in onze sfeervolle massagekamers. Laat u verwennen door
 		onze professionele en ervaren masseurs en ontdek de verbeterende en ontspannende effecten van
@@ -6,6 +7,8 @@
 		specifiek klacht wilt aanpakken, onze massagekamers bieden de perfecte omgeving om te
 		ontspannen, te herstellen en uw energie te herwinnen.
 	</p>
+</div>
+<div class="flex max-w-3xl flex-col items-center justify-center space-y-1">
 	<div>
 		<img
 			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fkamer1_opt.jpg?alt=media&token=54263043-6df7-48d4-9f66-96ee7beb60db"

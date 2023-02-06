@@ -3,11 +3,17 @@
 @tailwind utilities;
 
 @layer base {
+
   h1 {
     @apply mb-8 text-3xl font-semibold text-center uppercase text-pink-400;
   }
 
   h2 {
-    @apply my-4 text-2xl font-medium;
+    font-family: 'Great Vibes', cursive;
+    @apply my-4 text-3xl;
+  }
+
+  p {
+    font-family: 'Montserrat', sans-serif;
   }
 }

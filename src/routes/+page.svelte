@@ -1,4 +1,5 @@
-<div class="mb-8 max-w-3xl">
+<div class="mx-5 mb-8 max-w-3xl">
+	<h1>YoYo Beauty & Massage</h1>
 	<p>
 		Welkom bij YoYo Beauty & Massage! Wij bieden een uitgebreide selectie van ontspannende en
 		verzorgende massages, evenals verschillende beautybehandelingen om u te helpen zich mooi en

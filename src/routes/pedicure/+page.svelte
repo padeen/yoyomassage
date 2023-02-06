@@ -1,5 +1,5 @@
-<div class="max-w-3xl">
-	<h2>Pedicure</h2>
+<div class="mx-5 max-w-3xl">
+	<h1>Laat uw voeten verwennen</h1>
 	<p>
 		Pedicure is een verzorgende behandeling voor de voeten. Het verbetert niet alleen het uiterlijk
 		van de nagels en huid, maar ook de gezondheid en het comfort van de voeten. Tijdens een pedicure

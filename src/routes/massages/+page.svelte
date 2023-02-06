@@ -1,5 +1,5 @@
-<div class="max-w-3xl">
-	<h2>Onspanningsmassage</h2>
+<div class="mx-5 max-w-3xl">
+	<h1>Laat uw lichaam tot rust komen</h1>
 	<p>
 		Ontspanningsmassage is gericht op het verbeteren van de fysieke en mentale ontspanning van het
 		lichaam. Het helpt bij het verminderen van stress, angst en vermoeidheid door het activeren van
