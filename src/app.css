@@ -5,7 +5,7 @@
 @layer base {
 
   h1 {
-    @apply mb-6 text-3xl font-semibold text-center uppercase text-pink-400;
+    @apply mb-5 text-3xl font-semibold text-center uppercase text-pink-400;
   }
 
   h2 {
