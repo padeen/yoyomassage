@@ -1,6 +1,5 @@
 <div class="mx-5 max-w-3xl">
-	<h1>Kom tot rust</h1>
-	<h2>Sfeervol</h2>
+	<h2>Sfeervolle kamers</h2>
 	<p>
 		We nodigen u uit om tot rust te komen in onze sfeervolle massagekamers. Laat u verwennen door
 		onze professionele en ervaren masseurs en ontdek de verbeterende en ontspannende effecten van

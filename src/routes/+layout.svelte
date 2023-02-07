@@ -15,7 +15,7 @@
 	<div>
 		<img
 			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fmasaaki-komori-_SbeCWYjwCQ-unsplash.jpg?alt=media&token=4ab2cabb-f939-41a2-9f12-7af3a1e8b253"
-			class="mx-auto mb-8 h-64 w-[48rem] object-cover"
+			class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-56"
 			alt="flower blossom"
 		/>
 	</div>
