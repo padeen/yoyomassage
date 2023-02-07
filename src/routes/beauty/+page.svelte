@@ -1,5 +1,6 @@
-<div class="max-w-3xl">
-	<h2>Gezichtsreiniging</h2>
+<div class="mx-5 max-w-3xl">
+	<h1>Zie er stralend uit</h1>
+	<h2>Gezicht reinigen</h2>
 	<p>
 		Gezichtsreiniging is een belangrijk onderdeel van de dagelijkse verzorging van de huid. Het
 		verwijdert niet alleen vuil, olie en make-up, maar ook onzuiverheden en dode huidcellen.
