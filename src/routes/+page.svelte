@@ -1,13 +1,5 @@
 <div class="mx-5 max-w-3xl">
 	<h1>YoYo Beauty & Massage</h1>
-	<div class="relative">
-		<img
-			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fessential-oils-g0e1385797_1280.jpg?alt=media&token=87b0b9b5-1819-42fd-a7b0-d16b71ffdad3"
-			class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
-			alt="wellness massage"
-		/>
-		<div class="absolute top-0 h-full w-full bg-rose-100 opacity-50" />
-	</div>
 	<p>
 		Welkom bij YoYo Beauty & Massage! Wij bieden een uitgebreide selectie van ontspannende en
 		verzorgende massages, evenals verschillende beautybehandelingen om u te helpen zich mooi en
@@ -15,6 +7,14 @@
 		om u te helpen uw natuurlijke schoonheid te benadrukken. Laat u verwennen, ontspan en voel u
 		herboren bij ons. Wij kijken ernaar uit om u te verwelkomen.
 	</p>
+	<div class="relative">
+		<img
+			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fyoyo_room_opt.jpg?alt=media&token=8cf46a68-3613-4f4c-9d52-9936b0a91fc7"
+			class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
+			alt="wellness massage"
+		/>
+		<div class="absolute top-0 h-full w-full bg-neutral-100 opacity-30" />
+	</div>
 	<h2>Adres</h2>
 	<p>'s-Gravendijkwal 145B</p>
 	<p>3021 EL Rotterdam</p>
