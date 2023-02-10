@@ -25,12 +25,13 @@
 	>
 		<img src="/images/bars-solid.svg" alt="hamburger-icon" />
 	</button>
-	<div>
+	<div class="relative">
 		<img
-			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fmasaaki-komori-_SbeCWYjwCQ-unsplash.jpg?alt=media&token=4ab2cabb-f939-41a2-9f12-7af3a1e8b253"
-			class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-56"
-			alt="flower blossom"
+			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fessential-oils-g0e1385797_1280.jpg?alt=media&token=87b0b9b5-1819-42fd-a7b0-d16b71ffdad3"
+			class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
+			alt="wellness massage"
 		/>
+		<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-40" />
 	</div>
 	<div
 		class:hidden={hideResponsiveMenu}
