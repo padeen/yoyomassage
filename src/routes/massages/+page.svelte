@@ -1,13 +1,5 @@
 <div class="mx-5 max-w-3xl">
 	<h1>Laat uw lichaam tot rust komen</h1>
-	<div class="relative">
-		<img
-			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fpexels-anna-tarazevich-6560289.jpg?alt=media&token=2165eb8a-a953-4189-925d-95e34b9d5b69"
-			class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
-			alt="wellness massage"
-		/>
-		<div class="absolute top-0 h-full w-full bg-rose-100 opacity-50" />
-	</div>
 	<h2>Ontspanningsmassage</h2>
 	<p>
 		Ontspanningsmassage is gericht op het verbeteren van de fysieke en mentale ontspanning van het

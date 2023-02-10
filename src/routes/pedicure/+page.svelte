@@ -1,13 +1,5 @@
 <div class="mx-5 max-w-3xl">
 	<h1>Laat uw voeten verwennen</h1>
-	<div class="relative">
-		<img
-			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Frune-enstad-qeuJczNo54w-unsplash.jpg?alt=media&token=dabd704a-91b7-4a13-8a9a-dd50712cfce3"
-			class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
-			alt="foot spa"
-		/>
-		<div class="absolute top-0 h-full w-full bg-rose-100 opacity-50" />
-	</div>
 	<h2>Pedicure</h2>
 	<p>
 		Pedicure is een verzorgende behandeling voor de voeten. Het verbetert niet alleen het uiterlijk

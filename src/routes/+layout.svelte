@@ -1,6 +1,9 @@
 <script>
 	import '../app.css';
 	import { afterNavigate } from '$app/navigation';
+	import { page } from '$app/stores';
+
+	$: headerPhoto = $page.data.headerPhoto;
 
 	afterNavigate(() => {
 		hideResponsiveMenu = true;
@@ -27,7 +30,7 @@
 	</button>
 	<div class="relative">
 		<img
-			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fessential-oils-g0e1385797_1280.jpg?alt=media&token=87b0b9b5-1819-42fd-a7b0-d16b71ffdad3"
+			src={headerPhoto}
 			class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
 			alt="wellness massage"
 		/>
