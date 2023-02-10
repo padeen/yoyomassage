@@ -12,14 +12,14 @@
 	<div>
 		<img
 			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fkamer1_opt.jpg?alt=media&token=54263043-6df7-48d4-9f66-96ee7beb60db"
-			class="mx-auto h-80 w-[48rem] object-cover"
+			class="h-80w-[48rem] mx-auto object-cover"
 			alt="ronde kamer"
 		/>
 	</div>
 	<div>
 		<img
 			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fkamer2_opt.jpg?alt=media&token=2b5f78d8-dbc1-42e5-873b-312de0582755"
-			class="mx-auto h-80 w-[48rem] object-cover"
+			class="h-80w-[48rem] mx-auto object-cover"
 			alt="ronde kamer"
 		/>
 	</div>

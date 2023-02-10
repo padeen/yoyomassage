@@ -7,7 +7,7 @@
 		om u te helpen uw natuurlijke schoonheid te benadrukken. Laat u verwennen, ontspan en voel u
 		herboren bij ons. Wij kijken ernaar uit om u te verwelkomen.
 	</p>
-	<div class="photo">
+	<div class="mt-5">
 		<img
 			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fyoyo_room_opt.jpg?alt=media&token=8cf46a68-3613-4f4c-9d52-9936b0a91fc7"
 			class="mx-auto h-52 w-[48rem] object-cover"
