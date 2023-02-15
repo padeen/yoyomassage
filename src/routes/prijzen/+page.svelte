@@ -51,12 +51,12 @@
 			</tr>
 		</tbody>
 	</table>
-	<div class="ml-1 mt-7 mb-9 w-16 border border-pink-200" />
+	<div class="ml-1 mt-7 mb-9 w-16 border border-pink-200 md:hidden" />
 	<h2 class="mb-0">Pedicure</h2>
 	<p class="ml-0.5">€30</p>
 	<h2 class="mb-0 mt-2">Voetenbad Chinese kruiden</h2>
 	<p class="ml-0.5">€30</p>
-	<div class="ml-1 mt-7 mb-9 w-16 border border-pink-200" />
+	<div class="ml-1 mt-7 mb-9 w-16 border border-pink-200 md:hidden" />
 	<h2 class="mb-0">Gezicht reinigen + gezichtsmasker</h2>
 	<p class="ml-0.5">€39</p>
 	<h2 class="mb-0 mt-2">Douchen</h2>
