@@ -1,7 +1,7 @@
 <div class="mx-5 max-w-xs">
 	<h1>Top kwaliteit zachte prijzen</h1>
 	<h2>Ontspanningsmassage</h2>
-	<table class="table-auto">
+	<table class="ml-1 table-auto">
 		<tbody>
 			<tr>
 				<td class="pr-5">30 minuten</td>
@@ -18,7 +18,7 @@
 		</tbody>
 	</table>
 	<h2>Sportmassage</h2>
-	<table class="table-auto">
+	<table class="ml-1 table-auto">
 		<tbody>
 			<tr>
 				<td class="pr-5">30 minuten</td>
@@ -35,7 +35,7 @@
 		</tbody>
 	</table>
 	<h2>Voetmassage</h2>
-	<table class="table-fixed">
+	<table class="ml-1 table-fixed">
 		<tbody>
 			<tr>
 				<td class="pr-5">30 minuten</td>
