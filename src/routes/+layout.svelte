@@ -37,7 +37,7 @@
 			alt="wellness massage"
 		/>
 		<div
-			class:opacity-0={pageName === 'contact'}
+			class:hidden={pageName === 'contact'}
 			class="absolute top-0 h-52 w-full bg-rose-100 opacity-40"
 		/>
 	</div>
