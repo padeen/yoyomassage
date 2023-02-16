@@ -3,6 +3,7 @@
 	import { afterNavigate } from '$app/navigation';
 	import { page } from '$app/stores';
 
+	$: pageName = $page.data.pageName;
 	$: headerPhoto = $page.data.headerPhoto;
 
 	afterNavigate(() => {
@@ -35,7 +36,10 @@
 			class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
 			alt="wellness massage"
 		/>
-		<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-40" />
+		<div
+			class:opacity-0={pageName === 'contact'}
+			class="absolute top-0 h-52 w-full bg-rose-100 opacity-40"
+		/>
 	</div>
 	<div
 		class:hidden={hideResponsiveMenu}
