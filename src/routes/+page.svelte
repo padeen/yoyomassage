@@ -15,14 +15,11 @@
 		/>
 		<div class="absolute top-0 h-full w-full bg-neutral-100 opacity-30" />
 	</div>
+	<h2>Openingstijden:</h2>
+	<p>Maandag - zaterdag: 10:00 - 22:00</p>
+	<p>Zondag: 12:00 - 20:00</p>
 	<h2>Adres</h2>
 	<p>'s-Gravendijkwal 145B</p>
 	<p>3021 EL Rotterdam</p>
 	<p>06-87109280</p>
-	<h2>Openingstijden:</h2>
-	<p>Maandag - zaterdag: 10:00 - 22:00</p>
-	<p>Zondag: 12:00 - 20:00</p>
-	<h2>Prijslijst:</h2>
-	<p>30 minuten vanaf 25 euro</p>
-	<p>60 minuten vanaf 40 euro</p>
 </div>

@@ -10,7 +10,7 @@
 
   h2 {
     font-family: 'Great Vibes', cursive;
-    @apply mt-5 mb-1 text-3xl;
+    @apply mt-5 mb-1 text-xl text-3xl;
   }
 
   p {
