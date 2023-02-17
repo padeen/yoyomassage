@@ -23,7 +23,7 @@
 	<title>YoYo Beauty & Massage</title>
 </svelte:head>
 
-<div class="mb-5 flex flex-col items-center justify-center">
+<div class="flex flex-col items-center justify-center">
 	<button
 		on:click={() => (hideResponsiveMenu = !hideResponsiveMenu)}
 		class="absolute -top-1 right-0 z-10 w-16 rounded border bg-white px-4 py-3 opacity-70 md:hidden"
@@ -38,7 +38,9 @@
 		/>
 		<div
 			class:hidden={pageName === 'contact'}
-			class="absolute top-0 h-52 w-full bg-rose-100 opacity-40"
+			class:opacity-40={['home', 'beauty', 'kamers', 'prijzen'].includes(pageName)}
+			class:opacity-30={['massages', 'pedicure'].includes(pageName)}
+			class="absolute top-0 h-52 w-full bg-rose-100"
 		/>
 	</div>
 	<div
@@ -68,4 +70,17 @@
 		</div>
 	</div>
 	<slot />
+	<div class="mt-2 h-2 w-full max-w-3xl bg-gradient-to-b from-white to-slate-700" />
+	<div class="w-full max-w-3xl bg-slate-700 text-slate-300">
+		<div class="mx-7 pt-5 pb-7">
+			<p class="font-bold">YoYo Beauty & Massage</p>
+			<p>'s-Gravendijkwal 145B</p>
+			<p>3021 EL Rotterdam</p>
+			<img class="mb-2 mt-2 inline-block h-4" src="/images/phone-call.svg" alt="telefoon" /><span
+				class="ml-1.5 font-bold">06-87109280</span
+			>
+			<p class="mt-1.5">Maandag - zaterdag: 10:00 - 22:00</p>
+			<p>Zondag: 12:00 - 20:00</p>
+		</div>
+	</div>
 </div>

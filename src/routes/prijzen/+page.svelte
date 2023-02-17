@@ -1,4 +1,4 @@
-<div class="mx-5 max-w-xs">
+<div class="mx-7 mb-3 max-w-xs">
 	<h1>Top kwaliteit zachte prijzen</h1>
 	<h2>Ontspanningsmassage</h2>
 	<table class="ml-1 table-auto">

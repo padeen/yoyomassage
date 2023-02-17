@@ -1,18 +1,11 @@
 <div class="w-full max-w-3xl">
 	<div class="mx-auto max-w-xs">
-		<h2 class="mt-0">Adres</h2>
-		<p>'s-Gravendijkwal 145B</p>
-		<p>3021 EL Rotterdam</p>
-		<p>06-87109280</p>
-		<h2>Openingstijden:</h2>
-		<p>Maandag - zaterdag: 10:00 - 22:00</p>
-		<p>Zondag: 12:00 - 20:00</p>
 		<h2>Bereikbaarheid</h2>
-		<p class="font-semibold text-zinc-500">Tramlijn 4 halte 's-Gravendijkwal</p>
+		<p class="font-semibold text-slate-800">Tramlijn 4 halte 's-Gravendijkwal</p>
 		<p class="mb-3">Loopafstand 2 minuten</p>
-		<p class="font-semibold text-zinc-500">Metrostation Dijkzigt</p>
+		<p class="font-semibold text-slate-800">Metrostation Dijkzigt</p>
 		<p class="mb-3">Loopafstand 3 minuten</p>
-		<p class="font-semibold text-zinc-500">Parkeren</p>
+		<p class="font-semibold text-slate-800">Parkeren</p>
 		<p class="mb-3">Voor de deur of parkeerplaats MC Erasmus</p>
 	</div>
 	<div class="google-map relative mx-2 h-80">

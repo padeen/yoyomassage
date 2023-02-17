@@ -1,4 +1,4 @@
-<div class="mx-5 max-w-3xl">
+<div class="mx-7 max-w-3xl">
 	<h1>Laat uw voeten verwennen</h1>
 	<h2>Pedicure</h2>
 	<p>
@@ -8,6 +8,16 @@
 		balletjes gehydrateerd en verzacht. Pedicure bevordert ook de bloedcirculatie en vermindert
 		vermoeidheid en spanning in de voeten.
 	</p>
+</div>
+<div class="relative mt-5 max-w-3xl">
+	<img
+		src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fspa-treatment-product-female-feet-hand-spa_opt.jpg?alt=media&token=4cac665c-9d9a-45d7-bfa2-fba774f56050"
+		class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
+		alt="foot massage"
+	/>
+	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-10" />
+</div>
+<div class="mx-7 mb-3 max-w-3xl">
 	<h2>Reinigend voetenbad met Chinese kruiden</h2>
 	<p>
 		Een voetenbad met Chinese kruiden is een ontspannende en verzorgende behandeling voor de voeten.
