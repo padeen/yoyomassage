@@ -24,7 +24,7 @@
 	/>
 	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-20" />
 </div>
-<div class="mx-3 mb-3 max-w-3xl">
+<div class="mx-7 mb-3 max-w-3xl">
 	<h2 class="mt-2">Sportmassage</h2>
 	<p>
 		Sportmassage is gericht op het verbeteren van de prestaties en het herstel van spieren en
