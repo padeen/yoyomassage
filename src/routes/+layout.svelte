@@ -71,8 +71,8 @@
 	</div>
 	<slot />
 	<div class="mt-2 h-2 w-full max-w-3xl bg-gradient-to-b from-white to-slate-700" />
-	<div class="w-full max-w-3xl bg-slate-700 text-slate-300">
-		<div class="mx-7 pt-5 pb-7">
+	<div class="w-full max-w-3xl bg-slate-700 text-slate-100">
+		<div class="mx-7 pt-5 pb-4">
 			<p class="font-bold">YoYo Beauty & Massage</p>
 			<p>'s-Gravendijkwal 145B</p>
 			<p>3021 EL Rotterdam</p>
@@ -85,6 +85,9 @@
 			</a>
 			<p class="mt-1.5">Maandag - zaterdag: 10:00 - 22:00</p>
 			<p>Zondag: 12:00 - 20:00</p>
+			<a href="/">
+				<img class="ml-3.5 mt-2 h-16" src="/images/lotus.svg" alt="lotus bloem" />
+			</a>
 		</div>
 	</div>
 </div>
