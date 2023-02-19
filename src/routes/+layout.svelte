@@ -1,16 +1,9 @@
 <script>
 	import '../app.css';
-	import { afterNavigate } from '$app/navigation';
 	import { page } from '$app/stores';
 
 	$: pageName = $page.data.pageName;
 	$: headerPhoto = $page.data.headerPhoto;
-
-	afterNavigate(() => {
-		hideResponsiveMenu = true;
-	});
-
-	let hideResponsiveMenu = true;
 </script>
 
 <svelte:head>
@@ -24,12 +17,6 @@
 </svelte:head>
 
 <div class="flex flex-col items-center justify-center">
-	<button
-		on:click={() => (hideResponsiveMenu = !hideResponsiveMenu)}
-		class="absolute -top-1 right-0 z-10 w-16 rounded border bg-white px-4 py-3 opacity-70 md:hidden"
-	>
-		<img src="/images/bars-solid.svg" alt="hamburger-icon" />
-	</button>
 	<div class="relative">
 		<img
 			src={headerPhoto}
@@ -43,10 +30,7 @@
 			class="absolute top-0 h-52 w-full bg-rose-100"
 		/>
 	</div>
-	<div
-		class:hidden={hideResponsiveMenu}
-		class="mb-4 flex flex-col items-center justify-center border-b-2 pb-2.5 md:block"
-	>
+	<div class="mb-4 flex flex-col items-center justify-center border-b-2 pb-2.5 md:block">
 		<div>
 			<a href="/">Welkom</a>
 		</div>
@@ -79,7 +63,7 @@
 			<a href="tel:0687109280">
 				<img
 					class="mb-2 mt-2 inline-block h-4"
-					src="/images/phone-call-slate.svg"
+					src="/images/phone-active-slate.svg"
 					alt="telefoon"
 				/><span class="ml-1.5 font-bold">06-87109280</span>
 			</a>
