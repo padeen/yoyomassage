@@ -13,6 +13,7 @@
 		href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Montserrat:wght@400;600&display=swap"
 		rel="stylesheet"
 	/>
+	<link rel="icon" type="image/svg+xml" href="/images/lotus_title.svg" />
 	<title>YoYo Beauty & Massage</title>
 </svelte:head>
 
