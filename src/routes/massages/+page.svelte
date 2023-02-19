@@ -22,7 +22,7 @@
 		class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
 		alt="foot massage"
 	/>
-	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-20" />
+	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-20 md:hidden" />
 </div>
 <div class="mx-7 mb-3 max-w-3xl">
 	<h2 class="mt-2">Sportmassage</h2>
