@@ -88,6 +88,7 @@
 			<a href="/">
 				<img class="ml-3.5 mt-2 h-16" src="/images/lotus.svg" alt="lotus bloem" />
 			</a>
+			<h2 class="text-slate-100">Tot Ziens!</h2>
 		</div>
 	</div>
 </div>
