@@ -28,7 +28,7 @@
 			class:hidden={pageName === 'contact'}
 			class:opacity-40={['home', 'beauty', 'kamers', 'prijzen'].includes(pageName)}
 			class:opacity-30={['massages', 'pedicure'].includes(pageName)}
-			class="absolute top-0 h-52 w-full bg-rose-100"
+			class="absolute top-0 h-52 w-full bg-rose-100 md:hidden"
 		/>
 	</div>
 	<div class="mb-4 flex flex-col items-center justify-center border-b-2 pb-2.5 md:block">
