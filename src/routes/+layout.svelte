@@ -76,9 +76,13 @@
 			<p class="font-bold">YoYo Beauty & Massage</p>
 			<p>'s-Gravendijkwal 145B</p>
 			<p>3021 EL Rotterdam</p>
-			<img class="mb-2 mt-2 inline-block h-4" src="/images/phone-call.svg" alt="telefoon" /><span
-				class="ml-1.5 font-bold">06-87109280</span
-			>
+			<a href="tel:0687109280">
+				<img
+					class="mb-2 mt-2 inline-block h-4"
+					src="/images/phone-call-slate.svg"
+					alt="telefoon"
+				/><span class="ml-1.5 font-bold">06-87109280</span>
+			</a>
 			<p class="mt-1.5">Maandag - zaterdag: 10:00 - 22:00</p>
 			<p>Zondag: 12:00 - 20:00</p>
 		</div>
