@@ -1,4 +1,4 @@
-<div class="mx-5 max-w-3xl">
+<div class="mx-7 max-w-3xl">
 	<h2>Sfeervolle kamers</h2>
 	<p>
 		We nodigen u uit om tot rust te komen in onze sfeervolle massagekamers. Laat u verwennen door
