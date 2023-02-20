@@ -13,7 +13,7 @@
 				alt="wellness massage"
 			/>
 			<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-10 md:hidden" />
-			<h2 class="my-2.5 pb-5 text-2xl text-white">Massages</h2>
+			<h2 class="my-2.5 pb-5 text-2xl text-slate-50">Massages</h2>
 		</div>
 	</a>
 	<a href="/beauty">

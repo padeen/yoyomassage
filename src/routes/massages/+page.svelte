@@ -8,7 +8,7 @@
 		het lichaamsherstel en verbetert de slaapkwaliteit door het verminderen van spanning en het
 		verbeteren van de mentale ontspanning.
 	</p>
-	<h3>Voetmassage</h3>
+	<h3 class="mt-5">Voetmassage</h3>
 	<p>
 		Voetmassage heeft een positief effect op het hele lichaam. Door de druk die wordt uitgeoefend op
 		de voeten en enkels wordt de bloedcirculatie verbeterd en de zuurstof- en voedingsstoffen
@@ -24,8 +24,8 @@
 	/>
 	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-10 md:hidden" />
 </div>
-<div class="mx-7 mb-3 max-w-3xl">
-	<h3 class="mt-2">Sportmassage</h3>
+<div class="mx-7 mb-2 max-w-3xl">
+	<h3>Sportmassage</h3>
 	<p>
 		Sportmassage is gericht op het verbeteren van de prestaties en het herstel van spieren en
 		gewrichten na fysieke inspanning. Het verhoogt de flexibiliteit en de beweeglijkheid van spieren
