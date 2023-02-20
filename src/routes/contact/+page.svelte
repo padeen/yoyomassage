@@ -1,4 +1,4 @@
-<div class="w-full max-w-3xl">
+<div class="w-full max-w-2xl">
 	<div class="mx-auto max-w-xs">
 		<h1 class="mb-0">Vragen of afspraak maken</h1>
 		<a href="tel:0687109280">

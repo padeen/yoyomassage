@@ -21,7 +21,7 @@
 	<div class="relative">
 		<img
 			src={headerPhoto}
-			class="mx-auto mb-5 h-56 w-[48rem] object-cover md:h-72"
+			class="mx-auto mb-5 h-56 w-[42rem] object-cover md:h-72"
 			alt="wellness massage"
 		/>
 		<div
@@ -54,8 +54,8 @@
 		</div>
 	</div>
 	<slot />
-	<div class="mt-2 h-2 w-full max-w-3xl bg-gradient-to-b from-white to-slate-700" />
-	<div class="w-full max-w-3xl bg-slate-700 text-slate-100">
+	<div class="mt-2 h-2 w-full max-w-2xl bg-gradient-to-b from-white to-slate-700" />
+	<div class="w-full max-w-2xl bg-slate-700 text-slate-100">
 		<div class="mx-7 pt-5 pb-4">
 			<a href="/contact">
 				<p class="font-bold">YoYo Beauty & Massage</p>
