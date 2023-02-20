@@ -1,4 +1,4 @@
-<div class="mx-7 max-w-3xl">
+<div class="mx-7 max-w-2xl">
 	<h3>Sfeervolle kamers</h3>
 	<p>
 		We nodigen u uit om tot rust te komen in onze sfeervolle massagekamers. Laat u verwennen door
@@ -8,7 +8,7 @@
 		ontspannen, te herstellen en uw energie te herwinnen.
 	</p>
 </div>
-<div class="mt-6 flex max-w-3xl flex-col items-center justify-center space-y-1.5">
+<div class="mt-6 flex max-w-2xl flex-col items-center justify-center space-y-1.5">
 	<div>
 		<img
 			src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fkamer1_opt.jpg?alt=media&token=54263043-6df7-48d4-9f66-96ee7beb60db"

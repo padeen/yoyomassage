@@ -1,4 +1,4 @@
-<div class="mx-7 max-w-3xl">
+<div class="mx-7 max-w-2xl">
 	<h1>Laat uw lichaam tot rust komen</h1>
 	<h3>Ontspanningsmassage</h3>
 	<p>
@@ -16,7 +16,7 @@
 		verbetering van het lichaamsbalans.
 	</p>
 </div>
-<div class="relative mt-5 max-w-3xl">
+<div class="relative mt-5 max-w-2xl">
 	<img
 		src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fwoman-receiving-foot-massage-service-from-masseuse-close-up-hand-foot-relax-foot-massage-therapy-service-concept_opt.jpg?alt=media&token=a9c9ff89-fcf2-4490-ba66-ba87ff516151"
 		class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
@@ -24,7 +24,7 @@
 	/>
 	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-10 md:hidden" />
 </div>
-<div class="mx-7 mb-2 max-w-3xl">
+<div class="mx-7 mb-2 max-w-2xl">
 	<h3>Sportmassage</h3>
 	<p>
 		Sportmassage is gericht op het verbeteren van de prestaties en het herstel van spieren en

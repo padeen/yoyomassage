@@ -1,4 +1,4 @@
-<div class="mx-7 mb-3 max-w-3xl">
+<div class="mx-7 mb-3 max-w-2xl">
 	<h1>Zie er stralend uit</h1>
 	<h3>Gezichtsmasker</h3>
 	<p>
