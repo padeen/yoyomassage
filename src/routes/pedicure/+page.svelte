@@ -1,6 +1,6 @@
 <div class="mx-7 max-w-3xl">
 	<h1>Laat uw voeten verwennen</h1>
-	<h2>Pedicure</h2>
+	<h3>Pedicure</h3>
 	<p>
 		Pedicure is een verzorgende behandeling voor de voeten. Het verbetert niet alleen het uiterlijk
 		van de nagels en huid, maar ook de gezondheid en het comfort van de voeten. Tijdens een pedicure
@@ -18,7 +18,7 @@
 	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-10 md:hidden" />
 </div>
 <div class="mx-7 mb-3 max-w-3xl">
-	<h2>Reinigend voetenbad met Chinese kruiden</h2>
+	<h3>Reinigend voetenbad met Chinese kruiden</h3>
 	<p>
 		Een voetenbad met Chinese kruiden is een ontspannende en verzorgende behandeling voor de voeten.
 		Het bevat een combinatie van kruiden die specifiek zijn geselecteerd om de gezondheid en het
