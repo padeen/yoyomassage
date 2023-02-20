@@ -17,7 +17,7 @@
 	/>
 	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-10 md:hidden" />
 </div>
-<div class="mx-7 mb-3 max-w-3xl">
+<div class="mx-7 mb-2 max-w-3xl">
 	<h3>Reinigend voetenbad met Chinese kruiden</h3>
 	<p>
 		Een voetenbad met Chinese kruiden is een ontspannende en verzorgende behandeling voor de voeten.
