@@ -8,7 +8,7 @@
 			</div>
 		</a>
 		<div class="mx-auto mt-7 mb-8 w-16 border border-gray-300 md:hidden" />
-		<h2 class="mt-8">Bereikbaarheid</h2>
+		<h3 class="mt-8">Bereikbaarheid</h3>
 		<p class="font-semibold text-slate-800">Tramlijn 4 halte 's-Gravendijkwal</p>
 		<p class="mb-3">Loopafstand 2 minuten</p>
 		<p class="font-semibold text-slate-800">Metrostation Dijkzigt</p>

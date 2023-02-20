@@ -21,14 +21,13 @@
 	<div class="relative">
 		<img
 			src={headerPhoto}
-			class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
+			class="mx-auto mb-5 h-56 w-[48rem] object-cover md:h-72"
 			alt="wellness massage"
 		/>
 		<div
 			class:hidden={pageName === 'contact'}
-			class:opacity-40={['home', 'beauty', 'kamers', 'prijzen'].includes(pageName)}
-			class:opacity-30={['massages', 'pedicure'].includes(pageName)}
-			class="absolute top-0 h-52 w-full bg-rose-100 md:hidden"
+			class:opacity-10={pageName !== 'contact'}
+			class="absolute top-0 h-56 w-full bg-rose-100 md:hidden"
 		/>
 	</div>
 	<div class="mb-4 flex flex-col items-center justify-center border-b-2 pb-2.5 md:block">
@@ -58,7 +57,9 @@
 	<div class="mt-2 h-2 w-full max-w-3xl bg-gradient-to-b from-white to-slate-700" />
 	<div class="w-full max-w-3xl bg-slate-700 text-slate-100">
 		<div class="mx-7 pt-5 pb-4">
-			<p class="font-bold">YoYo Beauty & Massage</p>
+			<a href="/contact">
+				<p class="font-bold">YoYo Beauty & Massage</p>
+			</a>
 			<p>'s-Gravendijkwal 145B</p>
 			<p>3021 EL Rotterdam</p>
 			<a href="tel:0687109280">
@@ -73,7 +74,7 @@
 			<a href="/">
 				<img class="ml-3.5 mt-2 h-16" src="/images/lotus.svg" alt="lotus bloem" />
 			</a>
-			<h2 class="text-slate-100">Tot Ziens!</h2>
+			<h3 class="text-slate-100">Tot Ziens!</h3>
 		</div>
 	</div>
 </div>

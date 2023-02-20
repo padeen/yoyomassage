@@ -1,6 +1,6 @@
 <div class="mx-7 max-w-3xl">
 	<h1>Laat uw lichaam tot rust komen</h1>
-	<h2>Ontspanningsmassage</h2>
+	<h3>Ontspanningsmassage</h3>
 	<p>
 		Ontspanningsmassage is gericht op het verbeteren van de fysieke en mentale ontspanning van het
 		lichaam. Het helpt bij het verminderen van stress, angst en vermoeidheid door het activeren van
@@ -8,7 +8,7 @@
 		het lichaamsherstel en verbetert de slaapkwaliteit door het verminderen van spanning en het
 		verbeteren van de mentale ontspanning.
 	</p>
-	<h2>Voetmassage</h2>
+	<h3>Voetmassage</h3>
 	<p>
 		Voetmassage heeft een positief effect op het hele lichaam. Door de druk die wordt uitgeoefend op
 		de voeten en enkels wordt de bloedcirculatie verbeterd en de zuurstof- en voedingsstoffen
@@ -22,10 +22,10 @@
 		class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
 		alt="foot massage"
 	/>
-	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-20 md:hidden" />
+	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-10 md:hidden" />
 </div>
 <div class="mx-7 mb-3 max-w-3xl">
-	<h2 class="mt-2">Sportmassage</h2>
+	<h3 class="mt-2">Sportmassage</h3>
 	<p>
 		Sportmassage is gericht op het verbeteren van de prestaties en het herstel van spieren en
 		gewrichten na fysieke inspanning. Het verhoogt de flexibiliteit en de beweeglijkheid van spieren
