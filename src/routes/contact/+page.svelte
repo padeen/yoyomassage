@@ -1,5 +1,5 @@
-<div class="w-full max-w-2xl">
-	<div class="mx-auto max-w-xs">
+<div class="mx-7 max-w-2xl">
+	<div class="mx-auto max-w-2xl">
 		<h1 class="mb-0">Vragen of afspraak maken</h1>
 		<a href="tel:0687109280">
 			<div class="text-center">
@@ -7,7 +7,12 @@
 				<span class="ml-0.5 text-xl font-bold text-pink-400">06-87109280</span>
 			</div>
 		</a>
-		<div class="mx-auto mt-7 mb-8 w-16 border border-gray-300 md:hidden" />
+		<p class="mt-3.5">
+			Neem contact op met YoYo Beauty & Massage en laat ons u helpen om volledig tot rust te komen.
+			Onze deskundige masseuses staan voor u klaar om u te adviseren en te helpen bij het kiezen van
+			de perfecte behandeling. Kom langs bij onze salon en laat ons u verwennen met onze
+			professionele behandelingen.
+		</p>
 		<h3 class="mt-8">Bereikbaarheid</h3>
 		<p class="font-semibold text-slate-800">Tramlijn 4 halte 's-Gravendijkwal</p>
 		<p class="mb-3">Loopafstand 2 minuten</p>
