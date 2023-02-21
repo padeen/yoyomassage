@@ -8,9 +8,9 @@
 			</div>
 		</a>
 		<p class="mt-3.5">
-			Neem contact op met YoYo Beauty & Massage en laat ons u helpen om volledig tot rust te komen.
-			Onze deskundige masseuses staan voor u klaar om u te adviseren en te helpen bij het kiezen van
-			de perfecte behandeling. Kom langs bij onze salon en laat ons u verwennen met onze
+			Neem contact op met onze beauty massagesalon en laat ons u helpen om volledig tot rust te
+			komen. Onze deskundige masseuses staan voor u klaar om u te adviseren en te helpen bij het
+			kiezen van de perfecte behandeling. Kom langs bij onze salon en laat ons u verwennen met onze
 			professionele behandelingen.
 		</p>
 		<h3 class="mt-8">Bereikbaarheid</h3>
