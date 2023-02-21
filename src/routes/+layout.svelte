@@ -21,7 +21,7 @@
 	<div class="relative">
 		<img
 			src={headerPhoto}
-			class="mx-auto mb-5 h-56 w-[42rem] object-cover md:h-72"
+			class="mx-auto h-56 w-[42rem] object-cover md:h-72"
 			alt="wellness massage"
 		/>
 		<div
@@ -30,7 +30,10 @@
 			class="absolute top-0 h-56 w-full bg-rose-100 md:hidden"
 		/>
 	</div>
-	<div class="mb-4 flex flex-col items-center justify-center border-b-2 pb-2.5 md:block">
+	<div
+		id="nav"
+		class="mb-4 flex flex-col items-center justify-center border-b-2 pt-5 pb-2.5 md:block"
+	>
 		<div>
 			<a href="/">Welkom</a>
 		</div>
@@ -54,12 +57,17 @@
 		</div>
 	</div>
 	<slot />
+
+	<a href="#nav">
+		<div class="mt-2.5 flex flex-col items-center justify-center space-y-1">
+			<img class="inline-block h-4 w-4" src="/images/double-up-arrow-slate.svg" alt="naar boven" />
+			<span class="text-center text-sm font-bold uppercase text-slate-500">Naar boven</span>
+		</div>
+	</a>
 	<div class="mt-2 h-2 w-full max-w-2xl bg-gradient-to-b from-white to-slate-700" />
 	<div class="w-full max-w-2xl bg-slate-700 text-slate-100">
-		<div class="mx-7 pt-5 pb-4">
-			<a href="/contact">
-				<p class="font-bold">YoYo Beauty & Massage</p>
-			</a>
+		<div class="mx-7 pt-5 pb-7">
+			<p class="font-bold">YoYo Beauty & Massage</p>
 			<p>'s-Gravendijkwal 145B</p>
 			<p>3021 EL Rotterdam</p>
 			<a href="tel:0687109280">
@@ -71,10 +79,6 @@
 			</a>
 			<p class="mt-1.5">Maandag - zaterdag: 10:00 - 22:00</p>
 			<p>Zondag: 12:00 - 20:00</p>
-			<a href="/">
-				<img class="ml-3.5 mt-2 h-16" src="/images/lotus.svg" alt="lotus bloem" />
-			</a>
-			<h3 class="text-slate-100">Tot Ziens!</h3>
 		</div>
 	</div>
 </div>
