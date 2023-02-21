@@ -4,6 +4,7 @@
 
 	$: pageName = $page.data.pageName;
 	$: headerPhoto = $page.data.headerPhoto;
+	$: metaDescription = $page.data.metaDescription;
 </script>
 
 <svelte:head>
@@ -15,6 +16,7 @@
 	/>
 	<link rel="icon" type="image/svg+xml" href="/images/lotus_title.svg" />
 	<title>YoYo Beauty & Massage</title>
+	<meta name="description" content={metaDescription} />
 </svelte:head>
 
 <div class="flex flex-col items-center justify-center">
