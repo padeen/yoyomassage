@@ -2,6 +2,8 @@
 	import '../app.css';
 	import { page } from '$app/stores';
 
+	let titleBg = 'bg-pink-500';
+	let titleTextColor = 'text-white';
 	$: pageName = $page.data.pageName;
 	$: headerPhoto = $page.data.headerPhoto;
 	$: metaDescription = $page.data.metaDescription;
@@ -31,11 +33,9 @@
 			class:opacity-10={pageName !== 'contact'}
 			class="absolute top-0 h-56 w-full bg-rose-100 md:hidden"
 		/>
+		<h1 id="title" class="w-full bg-pink-500 py-3.5 text-white">{pageName}</h1>
 	</div>
-	<div
-		id="nav"
-		class="mb-4 flex flex-col items-center justify-center border-b-2 pt-5 pb-2.5 md:block"
-	>
+	<div class="mb-4 flex flex-col items-center justify-center border-b-2 pb-2.5 md:block">
 		<div>
 			<a href="/">Welkom</a>
 		</div>
@@ -60,14 +60,14 @@
 	</div>
 	<slot />
 
-	<a href="#nav">
+	<a href="#title">
 		<div class="mt-2.5 flex flex-col items-center justify-center space-y-1">
 			<img class="inline-block h-4 w-4" src="/images/double-up-arrow-slate.svg" alt="naar boven" />
-			<span class="text-center text-sm font-bold uppercase text-slate-500">Naar boven</span>
+			<span class="text-center text-sm font-bold uppercase text-slate-600">Naar boven</span>
 		</div>
 	</a>
-	<div class="mt-2 h-2 w-full max-w-2xl bg-gradient-to-b from-white to-slate-700" />
-	<div class="w-full max-w-2xl bg-slate-700 text-slate-100">
+	<div class="mt-2 h-2 w-full max-w-2xl bg-gradient-to-b from-slate-100 to-slate-800" />
+	<div class="w-full max-w-2xl bg-slate-800 text-slate-200">
 		<div class="mx-7 pt-5 pb-7">
 			<p class="font-bold">YoYo Beauty & Massage</p>
 			<p>'s-Gravendijkwal 145B</p>

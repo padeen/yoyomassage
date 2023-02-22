@@ -1,10 +1,12 @@
 <div class="mx-7 max-w-2xl">
 	<div class="mx-auto max-w-2xl">
-		<h1 class="mb-0">Vragen of afspraak maken</h1>
+		<p class="header-text mb-0 mb-3 text-center text-3xl font-semibold uppercase text-pink-500">
+			Vragen of afspraak maken
+		</p>
 		<a href="tel:0687109280">
 			<div class="text-center">
 				<img class="mx-auto my-3.5 h-8" src="/images/phone-call-pink.svg" alt="bellen" />
-				<span class="ml-0.5 text-xl font-bold text-pink-400">06-87109280</span>
+				<span class="ml-0.5 text-xl font-bold text-pink-500">06-87109280</span>
 			</div>
 		</a>
 		<p class="mt-3.5">
@@ -13,7 +15,7 @@
 			kiezen van de perfecte behandeling. Kom langs bij onze salon en laat ons u verwennen met onze
 			professionele behandelingen.
 		</p>
-		<h3 class="mt-8">Bereikbaarheid</h3>
+		<h2 class="mt-8">Bereikbaarheid</h2>
 		<p class="font-semibold text-slate-800">Tramlijn 4 halte 's-Gravendijkwal</p>
 		<p class="mb-3">Loopafstand 2 minuten</p>
 		<p class="font-semibold text-slate-800">Metrostation Dijkzigt</p>

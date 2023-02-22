@@ -5,19 +5,27 @@
 @layer base {
 
   h1 {
-    @apply mb-3 text-3xl font-semibold text-center uppercase text-pink-400;
+    @apply mb-3 text-3xl font-semibold text-center uppercase text-pink-500;
   }
 
   h2 {
-    @apply mb-3 text-3xl font-semibold text-center uppercase ;
+    font-family: 'Great Vibes', cursive;
+    @apply mt-3 mb-1.5 text-slate-800 text-3xl;
   }
 
   h3 {
-    font-family: 'Great Vibes', cursive;
-    @apply mt-3 mb-1.5 text-3xl;
+    @apply mb-3 text-3xl font-semibold text-center uppercase text-pink-500;
   }
 
   p {
     font-family: 'Montserrat', sans-serif;
+  }
+
+  .header-text {
+    @apply mb-3 text-3xl font-semibold text-center uppercase text-pink-500;
+  }
+
+  .photo-caption {
+    @apply text-2xl font-bold uppercase text-center;
   }
 }
