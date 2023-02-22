@@ -76,7 +76,7 @@
 				<img
 					class="mb-2 mt-2 inline-block h-4"
 					src="/images/phone-active-slate.svg"
-					alt="telefoon"
+					alt="bellen"
 				/><span class="ml-1.5 font-bold">06-87109280</span>
 			</a>
 			<p class="mt-1.5">Maandag - zaterdag: 10:00 - 22:00</p>
