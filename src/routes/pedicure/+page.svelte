@@ -13,7 +13,7 @@
 	<img
 		src="https://firebasestorage.googleapis.com/v0/b/svelte-starter-8ef85.appspot.com/o/images%2Fspa-treatment-product-female-feet-hand-spa_opt.jpg?alt=media&token=4cac665c-9d9a-45d7-bfa2-fba774f56050"
 		class="mx-auto mb-5 h-52 w-[48rem] object-cover md:h-72"
-		alt="foot massage"
+		alt="voet massage"
 	/>
 	<div class="absolute top-0 h-52 w-full bg-rose-100 opacity-10 md:hidden" />
 </div>
