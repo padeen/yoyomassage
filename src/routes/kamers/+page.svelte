@@ -1,5 +1,5 @@
 <div class="mx-7 max-w-2xl">
-	<h3>Sfeervolle kamers</h3>
+	<h2>Sfeervolle kamers</h2>
 	<p>
 		We nodigen u uit om tot rust te komen in onze sfeervolle massagekamers. Laat u verwennen door
 		onze professionele en ervaren masseurs en ontdek de verbeterende en ontspannende effecten van

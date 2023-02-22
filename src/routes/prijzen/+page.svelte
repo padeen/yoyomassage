@@ -1,6 +1,6 @@
 <div class="mx-7 mb-3 max-w-xs">
-	<h1>Top kwaliteit zachte prijzen</h1>
-	<h3>Ontspanningsmassage</h3>
+	<p class="header-text">Top kwaliteit zachte prijzen</p>
+	<h2>Ontspanningsmassage</h2>
 	<table class="ml-1 table-auto">
 		<tbody>
 			<tr>
@@ -17,7 +17,7 @@
 			</tr>
 		</tbody>
 	</table>
-	<h3>Sportmassage</h3>
+	<h2>Sportmassage</h2>
 	<table class="ml-1 table-auto">
 		<tbody>
 			<tr>
@@ -34,7 +34,7 @@
 			</tr>
 		</tbody>
 	</table>
-	<h3>Voetmassage</h3>
+	<h2>Voetmassage</h2>
 	<table class="ml-1 table-fixed">
 		<tbody>
 			<tr>
@@ -51,14 +51,14 @@
 			</tr>
 		</tbody>
 	</table>
-	<div class="ml-1 mt-7 mb-9 w-16 border border-pink-200 md:hidden" />
-	<h3 class="mb-0">Pedicure</h3>
+	<div class="ml-1 mt-7 mb-9 w-16 border border-pink-400 md:hidden" />
+	<h2 class="mb-0">Pedicure</h2>
 	<p class="ml-0.5">€30</p>
-	<h3 class="mb-0 mt-2">Voetenbad Chinese kruiden</h3>
+	<h2 class="mb-0 mt-2">Voetenbad Chinese kruiden</h2>
 	<p class="ml-0.5">€30</p>
-	<div class="ml-1 mt-7 mb-9 w-16 border border-pink-200 md:hidden" />
-	<h3 class="mb-0">Gezicht reinigen + gezichtsmasker</h3>
+	<div class="ml-1 mt-7 mb-9 w-16 border border-pink-400 md:hidden" />
+	<h2 class="mb-0">Gezicht reinigen + gezichtsmasker</h2>
 	<p class="ml-0.5">€39</p>
-	<h3 class="mb-0 mt-2">Douchen</h3>
+	<h2 class="mb-0 mt-2">Douchen</h2>
 	<p class="ml-0.5">€5</p>
 </div>
