@@ -60,12 +60,6 @@
 	</div>
 	<slot />
 
-	<a href="#title">
-		<div class="mt-2.5 flex flex-col items-center justify-center space-y-1">
-			<img class="inline-block h-4 w-4" src="/images/double-up-arrow-slate.svg" alt="naar boven" />
-			<span class="text-center text-sm font-bold uppercase text-slate-600">Naar boven</span>
-		</div>
-	</a>
 	<div class="mt-2 h-2 w-full max-w-2xl bg-gradient-to-b from-slate-100 to-slate-800" />
 	<div class="w-full max-w-2xl bg-slate-800 text-slate-200">
 		<div class="mx-7 pt-5 pb-7">
