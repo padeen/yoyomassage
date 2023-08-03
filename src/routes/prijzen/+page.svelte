@@ -27,11 +27,11 @@
 				</tr>
 				<tr>
 					<td>60 minuten</td>
-					<td>€45</td>
+					<td>€50</td>
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€65</td>
+					<td>€70</td>
 				</tr>
 			</tbody>
 		</table>
@@ -44,11 +44,11 @@
 				</tr>
 				<tr>
 					<td>60 minuten</td>
-					<td>€45</td>
+					<td>€50</td>
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€65</td>
+					<td>€70</td>
 				</tr>
 			</tbody>
 		</table>
