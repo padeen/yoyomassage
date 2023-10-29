@@ -9,7 +9,7 @@
 	$: metaDescription = $page.data.metaDescription;
 
 	const dat = new Date();
-	const zomertijd = dat.getHours() == dat.getUTCHours() + 2;
+	const zomertijd = dat.getHours() === dat.getUTCHours() + 2;
 </script>
 
 <svelte:head>
