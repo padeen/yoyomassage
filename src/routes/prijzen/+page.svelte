@@ -10,11 +10,11 @@
 				</tr>
 				<tr>
 					<td>60 minuten</td>
-					<td>€40</td>
+					<td>€45</td>
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€60</td>
+					<td>€70</td>
 				</tr>
 			</tbody>
 		</table>
@@ -31,7 +31,7 @@
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€70</td>
+					<td>€75</td>
 				</tr>
 			</tbody>
 		</table>
@@ -48,15 +48,15 @@
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€70</td>
+					<td>€75</td>
 				</tr>
 			</tbody>
 		</table>
 		<div class="ml-1 mt-7 mb-9 w-16 border border-pink-400 md:hidden" />
 		<h2 class="mb-0">Pedicure</h2>
-		<p class="ml-0.5">€30</p>
+		<p class="ml-0.5">€40</p>
 		<h2 class="mb-0 mt-2">Voetenbad Chinese kruiden</h2>
-		<p class="ml-0.5">€30</p>
+		<p class="ml-0.5">€40</p>
 		<div class="ml-1 mt-7 mb-9 w-16 border border-pink-400 md:hidden" />
 		<h2 class="mb-0">Gezicht reinigen + gezichtsmasker</h2>
 		<p class="ml-0.5">€39</p>

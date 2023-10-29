@@ -7,6 +7,9 @@
 	$: pageName = $page.data.pageName;
 	$: headerPhoto = $page.data.headerPhoto;
 	$: metaDescription = $page.data.metaDescription;
+
+	const dat = new Date();
+	const zomertijd = dat.getHours() == dat.getUTCHours() + 2;
 </script>
 
 <svelte:head>
@@ -73,8 +76,13 @@
 					alt="bellen"
 				/><span class="ml-1.5 font-bold">06-87109280</span>
 			</a>
-			<p class="mt-1.5">Maandag - zaterdag: 10:30 - 21:30</p>
-			<p>Zondag: 12:00 - 21:00</p>
+			{#if zomertijd}
+				<p class="mt-1.5">Maandag - zaterdag: 10:30 - 21:30</p>
+				<p>Zondag: 12:00 - 21:00</p>
+			{:else}
+				<p class="mt-1.5">Maandag - zaterdag: 11:00 - 21:00</p>
+				<p>Zondag: 12:00 - 21:00</p>
+			{/if}
 		</div>
 	</div>
 </div>
