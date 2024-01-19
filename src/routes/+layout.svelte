@@ -2,6 +2,8 @@
 	import '../app.css';
 	import { page } from '$app/stores';
 
+	export const csr = false;
+
 	let titleBg = 'bg-pink-500';
 	let titleTextColor = 'text-white';
 	$: pageName = $page.data.pageName;
