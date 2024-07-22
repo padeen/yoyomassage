@@ -79,11 +79,11 @@
 				/><span class="ml-1.5 font-bold">06-87109280</span>
 			</a>
 			{#if zomertijd}
-				<p class="mt-1.5">Maandag - zaterdag: 10:30 - 21:30</p>
-				<p>Zondag: 12:00 - 21:00</p>
+				<p class="mt-1.5">Maandag - zaterdag: 11:00 - 21:00</p>
+				<p>Zondag: 12:00 - 20:00</p>
 			{:else}
 				<p class="mt-1.5">Maandag - zaterdag: 11:00 - 21:00</p>
-				<p>Zondag: 12:00 - 21:00</p>
+				<p>Zondag: 12:00 - 20:00</p>
 			{/if}
 		</div>
 	</div>

@@ -6,15 +6,15 @@
 			<tbody>
 				<tr>
 					<td class="pr-5">30 minuten</td>
-					<td>€25</td>
+					<td>€30</td>
 				</tr>
 				<tr>
 					<td>60 minuten</td>
-					<td>€45</td>
+					<td>€50</td>
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€70</td>
+					<td>€80</td>
 				</tr>
 			</tbody>
 		</table>
@@ -23,15 +23,32 @@
 			<tbody>
 				<tr>
 					<td class="pr-5">30 minuten</td>
-					<td>€30</td>
+					<td>€35</td>
 				</tr>
 				<tr>
 					<td>60 minuten</td>
-					<td>€50</td>
+					<td>€55</td>
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€75</td>
+					<td>€90</td>
+				</tr>
+			</tbody>
+		</table>
+		<h2>Medische massage</h2>
+		<table class="ml-1 table-auto">
+			<tbody>
+				<tr>
+					<td class="pr-5">30 minuten</td>
+					<td>€35</td>
+				</tr>
+				<tr>
+					<td>60 minuten</td>
+					<td>€55</td>
+				</tr>
+				<tr>
+					<td>90 minuten</td>
+					<td>€90</td>
 				</tr>
 			</tbody>
 		</table>
@@ -40,15 +57,15 @@
 			<tbody>
 				<tr>
 					<td class="pr-5">30 minuten</td>
-					<td>€30</td>
+					<td>€35</td>
 				</tr>
 				<tr>
 					<td>60 minuten</td>
-					<td>€50</td>
+					<td>€55</td>
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€75</td>
+					<td>€90</td>
 				</tr>
 			</tbody>
 		</table>
