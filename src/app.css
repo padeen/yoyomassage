@@ -21,6 +21,7 @@
     font-family: 'Montserrat', sans-serif;
   }
 
+
   .header-text {
     @apply mb-3 text-3xl font-semibold text-center uppercase text-pink-500;
   }

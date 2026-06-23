@@ -13,6 +13,10 @@
 					<td>€50</td>
 				</tr>
 				<tr>
+					<td>75 minuten</td>
+					<td>€70</td>
+				</tr>
+				<tr>
 					<td>90 minuten</td>
 					<td>€80</td>
 				</tr>
@@ -23,15 +27,15 @@
 			<tbody>
 				<tr>
 					<td class="pr-5">30 minuten</td>
-					<td>€35</td>
+					<td>€40</td>
 				</tr>
 				<tr>
 					<td>60 minuten</td>
-					<td>€55</td>
+					<td>€60</td>
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€90</td>
+					<td>€100</td>
 				</tr>
 			</tbody>
 		</table>
@@ -40,15 +44,15 @@
 			<tbody>
 				<tr>
 					<td class="pr-5">30 minuten</td>
-					<td>€35</td>
+					<td>€40</td>
 				</tr>
 				<tr>
 					<td>60 minuten</td>
-					<td>€55</td>
+					<td>€60</td>
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€90</td>
+					<td>€100</td>
 				</tr>
 			</tbody>
 		</table>
@@ -57,15 +61,15 @@
 			<tbody>
 				<tr>
 					<td class="pr-5">30 minuten</td>
-					<td>€35</td>
+					<td>€40</td>
 				</tr>
 				<tr>
 					<td>60 minuten</td>
-					<td>€55</td>
+					<td>€60</td>
 				</tr>
 				<tr>
 					<td>90 minuten</td>
-					<td>€90</td>
+					<td>€100</td>
 				</tr>
 			</tbody>
 		</table>
